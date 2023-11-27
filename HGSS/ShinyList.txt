@@ -1,0 +1,8 @@
+MainHG:
+	Hoppip
+	Bellsprout
+	Mareep
+	Chikorita
+	Totodile
+	Drowzee
+	Manaphy
